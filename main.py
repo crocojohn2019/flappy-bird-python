@@ -18,3 +18,22 @@ while running:
   clock.tick(60)
 
 pygame.quit()
+
+
+
+
+
+
+
+
+
+
+
+class Player:
+  def __init__(self, x, y):
+    self.x = x
+    self.y = y
+    self.velocity = 0
+
+  def draw(self):
+    screen.blit(player_img, (self.x, self.y))
