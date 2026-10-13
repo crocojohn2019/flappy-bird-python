@@ -37,3 +37,6 @@ class Player:
 
   def draw(self):
     screen.blit(player_img, (self.x, self.y))
+
+
+pygame.image.load('player.png').convert()
