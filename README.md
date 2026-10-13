@@ -5,4 +5,4 @@ this is the README for a flappy bird clone made in python.
 how to download:
   download the main.py file in a directory(folder on windows) that does not have anything else in it
   open a web browser and go to python.org and download python
-	open terminal(command prompt on windows) and type pip install pygame
+	open terminal(command prompt on windows) and type pip install pygame and press enter
